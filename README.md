@@ -17,7 +17,7 @@ Make sure you have the following libraries installed:
 You can install them using the command:
 - For OpenCV (for usage of cv2)
 ```bash
-pip install opencv
+pip install opencv-python
 ```
 - For dlib make sure to have their dependencies installed as well
   - On Linux and MacOS based system
